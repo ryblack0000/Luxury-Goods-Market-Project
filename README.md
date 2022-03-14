@@ -1,5 +1,5 @@
 # Luxury Goods: Market Analysis
-Designed with an executive end-user in mind, this dashboard showcases sales data for video games across several console platforms and publishers. By creating a central dashboard with interactive components, the executive user has information at-a-glance regarding key indicators at a global or regional level. The colour schema and branding integrates the company’s visual vocabulary. Data cleaning on Google Sheets and visualization on Tableau.
+With data scraped in Python on a live connection to Tableau, I explored the effect of the COVID-19 Pandemic on the Luxury Goods industry and CAC40 Index. This analysis included visualizations of stock market data, and a combination of qualitative and quantitative indicators. Various factors impacting the luxury goods market were discussed with context and insight.
 
 *To view Jupyter Notebook used for data scraping, see 'Data Scraping.ipynb' file within this repository.
 
