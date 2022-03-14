@@ -1,6 +1,8 @@
 # Luxury Goods: Market Analysis
 Designed with an executive end-user in mind, this dashboard showcases sales data for video games across several console platforms and publishers. By creating a central dashboard with interactive components, the executive user has information at-a-glance regarding key indicators at a global or regional level. The colour schema and branding integrates the company’s visual vocabulary. Data cleaning on Google Sheets and visualization on Tableau.
 
+*To view Jupyter Notebook used for data scraping, see 'Data Scraping.ipynb' file within this repository.
+
 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/Capstone-LuxuryMarketextract/VerticalDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 
